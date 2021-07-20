@@ -211,6 +211,7 @@ ntpath
 onerror
 openrc
 openstack
+openrc
 openvz
 osversion
 pacman
@@ -259,6 +260,7 @@ rol
 rsa
 rst
 rsync
+runlevel
 runlevels
 s01
 s1
